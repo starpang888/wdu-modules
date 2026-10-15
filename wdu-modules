@@ -1,0 +1,11 @@
+namespace: wdu
+modules:
+  - https://github.com/starpang888/CMD.git
+  - https://github.com/starpang888/Chassis.git
+  - https://github.com/starpang888/Gimbal.git
+  - https://github.com/starpang888/EventBinder.git
+  - https://github.com/starpang888/InfantryLauncher.git
+  - https://github.com/starpang888/RMMotor.git
+
+bsps:
+  - https://github.com/starpang888/bsp-dev-c.git
