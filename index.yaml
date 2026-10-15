@@ -5,7 +5,7 @@ modules:
   - https://github.com/starpang888/InfantryLauncher.git
   - https://github.com/starpang888/RMMotor.git
   - https://github.com/starpang888/BMI088.git
-  - https://github.com/starpang888/FSI6X.git
+  - https://github.com/starpang888/fsi6x.git
   - https://github.com/starpang888/CMD.git
   - https://github.com/starpang888/EventBinder.git
 
