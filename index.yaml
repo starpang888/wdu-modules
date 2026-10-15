@@ -6,6 +6,7 @@ modules:
   - https://github.com/starpang888/EventBinder.git
   - https://github.com/starpang888/InfantryLauncher.git
   - https://github.com/starpang888/RMMotor.git
+  - https://github.com/starpang888/BMI088.git
 
 bsps:
   - https://github.com/starpang888/bsp-dev-c.git
