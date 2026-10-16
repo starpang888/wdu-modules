@@ -8,6 +8,7 @@ modules:
   - https://github.com/starpang888/Fsi6x.git
   - https://github.com/starpang888/CMD.git
   - https://github.com/starpang888/EventBinder.git
+  - https://github.com/starpang888/Motor.git
 
 bsps:
   - https://github.com/starpang888/bsp-dev-c.git
